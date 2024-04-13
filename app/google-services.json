@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "938944191524",
-    "project_id": "campusnest-7f483",
-    "storage_bucket": "campusnest-7f483.appspot.com"
+    "project_number": "************",
+    "project_id": "**************",
+    "storage_bucket": "c********"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:938944191524:android:795ced9d54b69fbe6d8cb1",
+        "mobilesdk_app_id": "*********************",
         "android_client_info": {
           "package_name": "com.innovateyou.pbl"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD276WLv5NNgOulby0j0YKDXdRvbPcLQho"
+          "current_key": "*************************"
         }
       ],
       "services": {
